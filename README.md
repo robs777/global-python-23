@@ -11,6 +11,6 @@ Projeto que auxilia na avaliação de um exame de sangue completo. Tornado mais 
 
 
 
-link do vídeo:
+link do vídeo: https://www.youtube.com/watch?v=ouNffenemj4
 
 
